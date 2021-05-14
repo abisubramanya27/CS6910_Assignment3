@@ -4,6 +4,8 @@
 - [Assignment3.ipynb](src/Assignment3.ipynb) -- Google colab notebook containing the code for the entire assignment
 - [predictions_vanilla](predictions_vanilla) -- folder containing the [predictions_vanilla.csv](predictions_vanilla/predictions_vanilla.csv) file, which has the top K predictions for each input from test data (using the best non-attention/vanilla model) written to it
 - [predictions_attention](predictions_attention) -- folder containing the [predictions_attention.csv](predictions_attention/predictions_attention.csv) file, which has the top K predictions for each input from test data (using the best attention based model) written to it
+- [Report](https://wandb.ai/abisheks/assignment3/reports/Assignment-3-CS6910--Vmlldzo2MzA5OTA) - Link to WANDB report
+- [Runs](https://wandb.ai/abisheks/assignment3?workspace=user-abisheks) - Link to WANDB runs
 
 ## Requirements
 All the python libraries required to run the program on a CPU (without Google colab) are listed in `requirements.txt` ([link](requirements.txt)).
