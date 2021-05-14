@@ -12,7 +12,8 @@ They can be installed using
 pip install -r requirements.txt
 ```
 **(Use Python 3.7 or lower versions of Python 3)**
-The `plot_model()` function from `Keras.utils.vis_utils` requires additionally installation of **graphviz**, for which you can refer to [https://graphviz.gitlab.io/download/](https://graphviz.gitlab.io/download/).
+
+The `plot_model()` function from `keras.utils.vis_utils` requires additionally the installation of **graphviz**, for which you can refer to [https://graphviz.gitlab.io/download/](https://graphviz.gitlab.io/download/). This again is needed only for running locally instead of Google colab.
 
 The program is expected to run much faster on a GPU (in general) and the notebook can be run on Google colab without any additional installations than the ones done in the notebook itself. 
 
