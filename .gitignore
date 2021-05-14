@@ -9,3 +9,9 @@ venv*
 **/wandb
 
 **/.vscode
+
+**/dakshina_dataset*
+
+**/fonts
+
+**/.ipynb_checkpoints
