@@ -47,6 +47,4 @@ The program is expected to run much faster on a GPU (in general) and the noteboo
   "beam_width" -- Beam width used in beam decoder
   "attention" -- Whether or not attention is used
   ```
-
-## Attention Visualization Video
-![Interaction GIF](attn_vis.gif)
+  
